@@ -1,12 +1,12 @@
 [
   {
-    "internalName": "hijack-customize-pluginhub",
-    "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
-    "size": 2221,
+    "internalName": "example-1.0-SNAPSHOT",
+    "hash": "15262F26AC46F97C550E54CC4528B3D9D355A61F853390E5EBB5CEA69D42A019",
+    "size": 19595,
     "plugins": [
-      "ca.arnah.runelite.HijackCustomizePlugin"
+      "com.chrisapi.ChrisAPIPlugin"
     ],
-    "displayName": "HiJack Customize PluginHub",
+    "displayName": "ChrisAPI",
     "description": "",
     "provider": "arnah"
   }
